@@ -1,0 +1,19 @@
+# Document files
+Shrishty Mishra - ds trainee.odt
+*.odt
+*.docx
+*.doc
+*.pdf
+
+# Environment & Cache
+.env
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
+
+# IDE / Editor settings
+.vscode/
+.idea/
